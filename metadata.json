@@ -1,0 +1,9 @@
+{
+  "name": "ROCCA - Control Cadena Cárnica SDE",
+  "description": "Sistema Provincial de Trazabilidad Comercial y Fiscalización Cárnica (ROCCA) de Santiago del Estero con trazabilidad REC, SIGSA y AGROTRAZA.",
+  "prompt": "ROCCA Sistema Provincial de Trazabilidad Comercial y Fiscalización Cárnica",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
